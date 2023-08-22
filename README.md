@@ -2,7 +2,7 @@
 
 1. primeiro.
 ```bash
-git clone 
+git clone https://github.com/Hacker-github-ctrl/OK.git
 ```
 2. segundo.
 ```bash
